@@ -3,7 +3,7 @@ Danh sách bài làm và nguồn bài:
 	PBCGANGS	Spoj		https://vn.spoj.com/problems/PBCGANGS/
 	TROYQUERY	Codeforces	http://codeforces.com/problemset/gymProblem/100571/F
 	TFOSS		CodeChef	https://www.codechef.com/problems/TFOSS
-	KMIX		SPOJ		https://www.codechef.com/problems/TFOSS
+	KMIX		SPOJ		https://vn.spoj.com/problems/KMIX/
 	POLICE		CodeChef	https://www.codechef.com/LTIME74B/problems/POLICE
 	
 Định dạng:
