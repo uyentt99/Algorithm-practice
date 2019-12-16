@@ -1,5 +1,5 @@
 Danh sách bài làm và nguồn bài:
-		Bài		Nguồn		Link
+	  Bài		Nguồn		Link
 	PBCGANGS	Spoj		https://vn.spoj.com/problems/PBCGANGS/
 	TROYQUERY	Codeforces	http://codeforces.com/problemset/gymProblem/100571/F
 	TFOSS		CodeChef	https://www.codechef.com/problems/TFOSS
