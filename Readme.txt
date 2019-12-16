@@ -6,12 +6,12 @@ Danh sách bài làm và nguồn bài:
 	KMIX		SPOJ		https://www.codechef.com/problems/TFOSS
 	POLICE		CodeChef	https://www.codechef.com/LTIME74B/problems/POLICE
 	
-Định dạng 
+Định dạng:
 		code: (tên bài).cpp
 		input: (tên bài).inp
 		output:	(tên bài).cpp
 		
-Code được chứa trong forlder Code. Gồm các phiên bản khác nhau trong AC, check, check2:
+Code: được chứa trong forlder Code. Gồm các phiên bản khác nhau trong AC, check, check2:
 	AC: chứa các code theo solution chuẩn đúng được mọi test
 	Check: chứa các code sử dụng thuật toán yếu hơn hoặc chưa cải thiện 1 số chỗ nên chỉ đúng được các Subtask bé
 	check2: chứa các code khác cũng AC, chạy chậm hơn code trong AC
