@@ -1,4 +1,4 @@
-#Problems with self test created
+# Problems with self test created
 ## Danh sách bài làm:
 
       Bài		Nguồn		Link
@@ -29,3 +29,4 @@
 Chương trình chấm: có thể sử dụng Themis, foler chứa danh sách thí sinh là code, folder chứa danh sách bài thi là test
 ttud.constet chứa contest đã được chấm bằng Themis
 result.png là kết quả chấm
+  ![result](Selftest problems/result.png)
