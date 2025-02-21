@@ -1,4 +1,4 @@
 # Practice algorithm problems
-- NILL:My library for learning algorithm
-- Problems with self-test created
-- LeetCode
+- **NILL**: My library for learning algorithm
+- **Selftest Problem**: Some problems with tests
+- **LeetCode**
